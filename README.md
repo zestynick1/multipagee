@@ -245,7 +245,7 @@
  
     <footer class="background">
         <p class="text-footer">
-            click here
+        <p>Click <a href="https://zestynick1.github.io/Nickm/">here</a>
         </p>
  
  
