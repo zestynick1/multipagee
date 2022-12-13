@@ -245,7 +245,7 @@
  
     <footer class="background">
         <p class="text-footer">
-            Copyright ©-All rights are reserved
+            click here
         </p>
  
  
