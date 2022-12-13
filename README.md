@@ -208,7 +208,7 @@
         <div class="box-main">
             <div class="firstHalf">
                 <h1 class="text-big" id="program">
-                    C Programming
+                    Deserunt mollit
                 </h1>
                 <p class="text-small">
                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
